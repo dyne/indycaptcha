@@ -37,7 +37,7 @@
 #include "jutils.h"
 
 // static char *font = "/usr/share/fonts/truetype/freefont/FreeSerif.ttf";
-static char *font = "/usr/share/fonts/dejavu/DejaVuSerif.ttf";
+static char *font = "/usr/share/fonts/truetype/freefont/FreeSerif.ttf";
 
 static int bg_color;
 static int fg_color; 

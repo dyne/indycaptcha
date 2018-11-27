@@ -1,14 +1,15 @@
 # indyCaptcha
 
-Emancipate yourselves from CAPTCHA slavery,
+## Emancipate yourselves from CAPTCHA slavery,
 
-None but ourselves can free our web services!
+## None but ourselves can free our web services!
 
-<img src="http://www.startmotionmedia.com/wp-content/uploads/2012/09/Adam-Scott-Miller_HoldingSpace_8.5x11.jpg">
+<img src="https://raw.githubusercontent.com/dyne/indycaptcha/master/docs/HoldingSpace.jpg" 
+	width="800">
 
-Today is your day to let go of things that no longer serve you.
+## Today is your day to let go of things that no longer serve you.
 
-## Introduction
+# Introduction
 
 indyCaptcha is a minimal and independent C99 implementation of a
 [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) generator using
@@ -16,7 +17,7 @@ configurable fonts and list of words. This software is a response to
 the growing adoption of Google's reCaptcha and its annoying usage to
 mock humans to prove they are not AI by training other AIs.
 
-## History
+# History
 
 indyCaptcha was originally made in 2013 as an off-line and non-spying
 implementation to be used in the subscription mechanism of the
@@ -29,7 +30,7 @@ Further motivation to the development and adoption of this software
 can be found in the [Algorithmic Sovereignty](https://algosov.org)
 discourse.
 
-## Tech details
+# Tech details
 
 indyCaptcha only dependency is from
 [libGD2](https://libgd.github.io/), the aim is that of making it
@@ -37,11 +38,13 @@ portable and embeddable into any platform (MS/Win, Apple/OSx,
 GNU/Linux, Android, iOS, nodeJS, WASM) and compilable as a fully
 static and isolated software that can be deployed on-chip (unikernel).
 
-## Acknowledgements
+# Acknowledgements
 
 indyCaptcha is Copyright (C) 2013-2018 by Dyne.org foundation
 
 Designed, written and maintained by Denis Roio <jaromil@dyne.org>
+
+The painting "Holding Space" is by Adam Scott Miller.
 
 Upcoming contributions will be listed here.
       
